@@ -12,7 +12,7 @@ The Airline Passenger Referral Prediction project aimed to analyze and predict p
 
 Numpy and Pandas
 
-**Visulaization**
+**Visualization**
 
 Matplotlib and Seaborn
 
