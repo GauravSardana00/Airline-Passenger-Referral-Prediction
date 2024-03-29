@@ -9,15 +9,19 @@ The Airline Passenger Referral Prediction project aimed to analyze and predict p
 
 # Python Libraries used
 **Data Wrangling and Manipulation**
+
 Numpy and Pandas
 
 **Visulaization**
+
 Matplotlib and Seaborn
 
 **Machine Learning Models**
+
 Sklearn
 
 **Others**
+
 Warnings
 NLTK
 Spacy
