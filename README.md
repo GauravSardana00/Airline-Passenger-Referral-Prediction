@@ -9,5 +9,32 @@ The Airline Passenger Referral Prediction project aimed to analyze and predict p
 
 # Python Libraries used
 **Data Wrangling and Manipulation**
+Numpy and Pandas
+
+**Visulaization**
+Matplotlib and Seaborn
+
+**Machine Learning Models**
+Sklearn
+
+**Others**
+Warnings
+NLTK
+Spacy
+String
+Re
+
+# Models
+In this project I am implementing 2 machine learning algorithms to predict the target variable and also I have applied optimization techniques to get the best resulting accuracy.
+
+**Following models have been used for predictions:-**
+Logistic Regression Classifier
+Random Forest Classifier
+
+Along with Hyperparameter tuning and Cross-Validation techniques.
+
+# Notable Findings
+I have noticed that Logistic Regression is the stand out performer among other models with a recall of 0.97.Hence, it's safe to say that that Logistic Regression Classifier provide a optimal solution to our problem. 
+
 
 
