@@ -29,7 +29,7 @@ String
 Re
 
 # Models
-In this project I am implementing 2 machine learning algorithms to predict the target variable and also I have applied optimization techniques to get the best resulting accuracy.
+In this project I am implementing 2 machine learning algorithms to predict the target variable and also I have applied optimization techniques to get the best resulting recall.
 
 **Following models have been used for predictions:-**
 
